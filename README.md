@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NikolaCudina
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning "React" and "Unity 2D Game Programming"
+- :family: I'm a familly man
+- :books: I like reading
+- 📫 cudinan@gmail.com
